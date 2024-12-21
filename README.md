@@ -17,6 +17,7 @@
 9. Click on 'Open' or 'Open in New Window'.
 > ![Alt Text](./.images/8.png)
 10. Now you have successfully created a new repository and cloned it to your local machine! Now the fun starts! 🤩
+> ![Alt Text](./.images/9.png)
 
 
 
