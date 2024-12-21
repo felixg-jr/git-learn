@@ -1,4 +1,4 @@
-# Creating a New Repository & Cloning it Locally
+# [Part One] - Creating a New Repository & Cloning it Locally
 
 1. Log into [GitHub](https://www.github.com).
 2. Create a new repo by clicking on 'New'.
