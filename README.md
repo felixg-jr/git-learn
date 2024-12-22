@@ -31,10 +31,10 @@
 4. Now you can make any changes without affecting your 'main' branch. In this example I'm editing the existing 'README.md' file.
 > ![Alt Text](./.images/14.png)
 5. To then commit/sync my changes to my remote repository... > Click on the 'Source Control' icon > Click on the plus sign next to file > Enter in a comment of the change your are about to commit > Click on '✓ Commit'.
-> ![Alt Text](./.images/15.png)
->> > ![Alt Text](./.images/16.png)
+> ![Alt Text](./.images/15-new.png)
+>> > ![Alt Text](./.images/16-new.png)
 6. Click on 'Sync Changes'.
-> ![Alt Text](./.images/17.png)
+> ![Alt Text](./.images/17-new.png)
 7. Now go back to your GitHub repository (may need to refresh page), and you'll see your new changes!😃
 > ![Alt Text](./.images/20.png)
 
