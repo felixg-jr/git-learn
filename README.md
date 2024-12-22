@@ -1,7 +1,7 @@
 # Table of Contents
 - [Part One - Creating a New Repository & Cloning it Locally](#creating-a-new-repository-and-cloning-it-locally)
 - [Part Two - Creating a New Branch & Commiting Changes](#creating-a-new-branch-and-commiting-changes)
-- [COMING SOON! Part Three - Creating a Pull Request & Merging into Main](#)
+- [Part Three - Creating a Pull Request & Merging into Main](#creating-a-pull-request-and-merging-into-main)
 
 # Creating a New Repository and Cloning it Locally
 
@@ -43,6 +43,25 @@
 7. Now go back to your GitHub repository (may need to refresh page), and you'll see your new changes!😃
 > ![Alt Text](./.images/20.png)
 
+# Creating a Pull Request and Merging into Main
+1. Click on 'Compare & pull request'.
+> ![Alt Text](./.images/21.png)
+2. Add a title for your 'Pull request' aka "PR" > Add a description explaining your PR > Click on 'Create pull request'.
+> ![Alt Text](./.images/22.png)
+3. Now you'll see a summary of the PR you created:
+> ![Alt Text](./.images/23.png)
+4. Scroll all the way to bottom of the PR you just created > Click on the drop-down 'Merge pull request' button. 
+> ![Alt Text](./.images/24.png)
+5. Select 'Squash and merge'.
+> ![Alt Text](./.images/25.png)
+6. Click on 'Squash and merge'.
+> ![Alt Text](./.images/26.png)
+7. Click on 'Confirm squash and merge'.
+> ![Alt Text](./.images/27.png)
+8. Now you've successfully merged your dev branch into 'main'! 🙌🏼 You can now safely delete your remote dev branch.
+> ![Alt Text](./.images/28.png)
+9. Optional - Click on the 'Code' tab so you can verify that now your repository only has one branch, the 'main' branch.
+> ![Alt Text](./.images/29.png)
 
 ## Other Resources:
 
