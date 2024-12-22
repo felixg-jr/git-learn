@@ -1,9 +1,9 @@
 # Table of Contents
-- [Heading 1](#[part-one]-creating-a-new-repository-&-cloning-it-locally)
-- [Heading 2](#[part-two]-creating-a-new-branch-&-commiting-changes)
+- [Heading 1](#part-one-creating-a-new-repository-&-cloning-it-locally)
+- [Heading 2](#part-two-creating-a-new-branch-&-commiting-changes)
 
 
-# [Part One] - Creating a New Repository & Cloning it Locally
+# Part One - Creating a New Repository & Cloning it Locally
 
 1. Log into [GitHub](https://www.github.com).
 2. Create a new repo by clicking on 'New'.
@@ -24,7 +24,7 @@
 10. Now you have successfully created a new repository and cloned it to your local machine! Now the fun starts! 🤩
 > ![Alt Text](./.images/9.png)
 
-# [Part Two] - Creating a New Branch & Commiting Changes
+# Part Two - Creating a New Branch & Commiting Changes
 
 1. Click on 'main' (this is your main branch) on the bottom left corner of VSCode > Type in the name of your new branch (call if whatever you'd like!) > Click on 'Create new branch...'.
 > ![Alt Text](./.images/10.png)
