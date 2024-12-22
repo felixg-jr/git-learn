@@ -45,6 +45,9 @@
 
 
 ## Other Resources:
-### Here's a Link on How-To write in Markdown language:
 
+### How-To write in Markdown language:
 [Markdown - Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Git Terminology:
+[Git Glossary](https://git-scm.com/docs/gitglossary)
