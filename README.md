@@ -1,6 +1,6 @@
 # Table of Contents
-- [Heading 1](#part-one-creating-a-new-repository-&-cloning-it-locally)
-- [Heading 2](#part-two-creating-a-new-branch-&-commiting-changes)
+- [Part One - Creating a New Repository & Cloning it Locally](#part-one-creating-a-new-repository-&-cloning-it-locally)
+- [Part Two - Creating a New Branch & Commiting Changes](#part-two-creating-a-new-branch-&-commiting-changes)
 
 
 # Part One - Creating a New Repository & Cloning it Locally
