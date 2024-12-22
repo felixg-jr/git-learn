@@ -1,7 +1,7 @@
 # Table of Contents
 - [Part One - Creating a New Repository & Cloning it Locally](#creating-a-new-repository-and-cloning-it-locally)
 - [Part Two - Creating a New Branch & Commiting Changes](#creating-a-new-branch-and-commiting-changes)
-- [COMING SOON! Part Three - Creating a Pull Request & Merging into Main](#)
+- [COMING SOON! Part Three - Creating a Pull Request & Merging into Main](#creating-a-pull-request-and-merging-into-main)
 
 # Creating a New Repository and Cloning it Locally
 
