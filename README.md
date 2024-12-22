@@ -1,3 +1,8 @@
+# Table of Contents
+- [Heading 1](# [Part One] - Creating a New Repository & Cloning it Locally)
+- [Heading 2](# [Part Two] - Creating a New Branch & Commiting Changes)
+
+
 # [Part One] - Creating a New Repository & Cloning it Locally
 
 1. Log into [GitHub](https://www.github.com).
