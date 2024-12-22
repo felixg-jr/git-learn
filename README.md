@@ -36,7 +36,7 @@
 6. Click on 'Sync Changes'.
 > ![Alt Text](./.images/17.png)
 7. Now go back to your GitHub repository (may need to refresh page), and you'll see your new changes!😃
-> ![Alt Text](./.images/17.png)
+> ![Alt Text](./.images/20.png)
 
 
 ## Other Resources:
